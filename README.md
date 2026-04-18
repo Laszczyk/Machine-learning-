@@ -6,7 +6,6 @@ This repository contains a series of laboratory projects covering fundamental an
 
 | Project | Description | Report Preview (HTML) |
 | :--- | :--- | :--- |
-| **1. Classification Fundamentals** | Implementation and evaluation of **K-Nearest Neighbors (KNN)** and **Logistic Regression**. Focus on **ROC Curves** and **AUC** metrics. | [View Report](https://htmlpreview.github.io/?https://github.com/Laszczyk/Machine-learning-/blob/main/Miczek_Laszczyk_UM1/Miczek_Laszczyk_UM1/Miczek_Laszczyk_UM1.html) |
 | **2. Data Preprocessing** | Advanced techniques for handling **missing data** (imputation). Analysis of the impact of different cleaning methods on model accuracy using the Airline dataset. | [View Report](https://htmlpreview.github.io/?https://github.com/Laszczyk/Machine-learning-/blob/main/Miczek_Laszczyk_UM2/Miczek_Laszczyk_UM2/Miczek_Laszczyk_UM2.html) |
 | **3. Ensemble Methods: Bagging** | Comparison between simple **Decision Trees** and **Bagging** techniques. Exploration of parameter tuning and model stability. | [View Report](https://htmlpreview.github.io/?https://github.com/Laszczyk/Machine-learning-/blob/main/Miczek_Laszczyk_UM3/Miczek_Laszczyk_UM3/Miczek_Laszczyk_UM3.html) |
 | **4. Random Forest & Boosting** | Implementation of **Random Forest**, **Bagging**, and **Boosting**. Analysis of model complexity, generalization, and performance vs. simple trees. | [View Report](https://htmlpreview.github.io/?https://github.com/Laszczyk/Machine-learning-/blob/main/Miczek_Laszczyk_UM4/Miczek_Laszczyk_UM4/Miczek_Laszczyk_UM4.html) |
